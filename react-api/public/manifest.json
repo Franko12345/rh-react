@@ -1,0 +1,8 @@
+{
+  "short_name": "Desafio Franco",
+  "name": "rh-react desafio Franco",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
